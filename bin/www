@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('budget:server');
+var debug = require('debug')('expressjs-budget:server');
 var http = require('http');
 
 /**

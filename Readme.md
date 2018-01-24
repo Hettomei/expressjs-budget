@@ -6,7 +6,7 @@ Simple server to create and fetch users
 
 # Start server :
 
-PORT=3001 DEBUG=budget:* npm start
+PORT=3001 DEBUG=expressjs-budget:* npm start
 
 # Urls
 
